@@ -35,7 +35,7 @@
             </meta-data>
             <meta-data
                 android:name="com.google.mlkit.vision.DEPENDENCIES"
-                android:resource="barcode_ui">
+                android:value="barcode_ui">
             </meta-data>
         </provider>
     </application>
