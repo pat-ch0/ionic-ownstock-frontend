@@ -4,7 +4,7 @@ We use capacitor (native runtime) with Android Studio.
 
 ## Project setup
 ```
-npm install
+npm i
 ```
 
 ## Android setup
